@@ -1,5 +1,6 @@
 # DR- Data Engineering Projects
-[comment]: # (<img src="https://example.com/images/cat.jpg" alt="To be" width="200" height="150">) 
+<img src="Images/ToBe.jpg" alt="To be" width="200" height="150">  
+
 >## Site Contents
 * [About the Project](#about_the_project)
 * [Tools](#tools)
