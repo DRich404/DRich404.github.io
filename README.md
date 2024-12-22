@@ -21,7 +21,7 @@ Include a list of the tools used in the project:
 
 <a class="anchor" id="Reference_Projects"></a>
 >## Reference Projects
-<a href="https://drich404.github.io/PCDE-Activity-9.1/"> PCDE-Activity-9.1 </a>
+<a href="https://drich404.github.io/PCDE-Activity-9.1"> PCDE-Activity-9.1 </a>
    
 <a class="anchor" id="contact"></a>
 >## Contact Information
